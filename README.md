@@ -8,18 +8,11 @@
   
 
 
-Sou formado em Negócios da Moda, passei por vários setores na minha jornada profissional.
-Minha primeira experiencia foi em uma emissora de televisão onde atuei como assistente de figurino.
-Já atuei no varejo como consultor em vendas, onde adquiri muito conhecimento sobre comportamento de  pessoas e como trabalhar em equipe.
+Bem-vindos! 
 
-Atuei também em marketing digital em marcas e agencias de publicidade.
-Realizei trabalhos de design gráfico, na criação de logotipos e campanhas publicitarias.
+Sou formado em Negócios da Moda, e já passei por vários setores durante minha carreira. Comecei como assistente de figurino em uma emissora de televisão, depois trabalhei no varejo como consultor de vendas, onde adquiri muitos conhecimentos sobre comportamento humano e trabalho em equipe. Também atuei em marketing digital para marcas e agências de publicidade, além de realizar trabalhos de design gráfico, como criação de logotipos e campanhas publicitárias.
 
-Sempre gostei de tecnologia e sempre tive muita curiosidade de como funcionaria a fundo.
-
-Atualmente estou estudando Desenvolvimento Web, para trabalhar no mercado de tecnologia, onde realmente estou me reencontrando novamente. 
-
-Meu objetivo é ser desenvolvedor.
+Sempre gostei de tecnologia e me interesso por trabalhar no mercado de tecnologia. Atualmente estou estudando Desenvolvimento Web, e meu objetivo é me tornar um Desenvolvedor Front-End.
   
 
 <br/>  
