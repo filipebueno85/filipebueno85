@@ -90,5 +90,3 @@ Sempre gostei de tecnologia e me interesso por trabalhar no mercado de tecnologi
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
