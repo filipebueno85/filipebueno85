@@ -18,7 +18,7 @@ Sempre gostei de tecnologia e me interesso por trabalhar no mercado de tecnologi
 <br/>  
 
 
-<div align="center">  
+### <div align="center">  
 ## My Skill Set  
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
