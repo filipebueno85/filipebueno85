@@ -65,9 +65,6 @@ Sempre gostei de tecnologia e me interesso por trabalhar no mercado de tecnologi
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=filipebueno85&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
