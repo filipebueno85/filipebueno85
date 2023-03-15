@@ -1,23 +1,5 @@
 # **Filipe Bueno**  
   
-
-### <div align="center">Atualmente sou estudante da [Trybe](https://www.betrybe.com/)</div>  
-  
-
-- 🔭 Estou cursando Desenvolvimento Web - Set 2022 - Set - 2023  
-  
-
-
-Bem-vindos! 
-
-Sou formado em Negócios da Moda, e já passei por vários setores durante minha carreira. Comecei como assistente de figurino em uma emissora de televisão, depois trabalhei no varejo como consultor de vendas, onde adquiri muitos conhecimentos sobre comportamento humano e trabalho em equipe. Também atuei em marketing digital para marcas e agências de publicidade, além de realizar trabalhos de design gráfico, como criação de logotipos e campanhas publicitárias.
-
-Sempre gostei de tecnologia e me interesso por trabalhar no mercado de tecnologia. Atualmente estou estudando Desenvolvimento Web, e meu objetivo é me tornar um Desenvolvedor Front-End.
-  
-
-<br/>  
-
-
 ### <div align="center">  
 ## My Skill Set  
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -44,6 +26,25 @@ Sempre gostei de tecnologia e me interesso por trabalhar no mercado de tecnologi
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
+
+<br/>  
+
+### <div align="center">Atualmente sou estudante da [Trybe](https://www.betrybe.com/)</div>  
+  
+
+- 🔭 Cursando Desenvolvimento Web - Set 2022 - Set - 2023  
+  
+
+
+Bem-vindos! 
+
+Sou formado em Negócios da Moda, e já passei por vários setores durante minha carreira. Comecei como assistente de figurino em uma emissora de televisão, depois trabalhei no varejo como consultor de vendas, onde adquiri muitos conhecimentos sobre comportamento humano e trabalho em equipe. Também atuei em marketing digital para marcas e agências de publicidade, além de realizar trabalhos de design gráfico, como criação de logotipos e campanhas publicitárias.
+
+Sempre gostei de tecnologia e me interesso por trabalhar no mercado de tecnologia.
+Atualmente estou estudando Desenvolvimento Web, e meu objetivo é me tornar um Desenvolvedor Front-End.
+
+Desenvolvedor Front-End ✅
+  
 
 <br/>  
 
