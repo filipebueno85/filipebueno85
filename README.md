@@ -51,13 +51,13 @@ Decidi estudar tecnologia de forma mais completa, focando em desenvolvimento de 
 <a href="https://github.com/https://github.com/filipebueno85" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/filipebueno85/" target="_blank">
+<a href="https://www.linkedin.com/in/filipebueno85/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/behance.net/gallery/86293417/Portfolio-Filipe-Bueno " target="_blank">
+<a href="https://www.behance.net/behance.net/gallery/86293417/Portfolio-Filipe-Bueno" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://filipebueno85-github-io.vercel.app/">
+<a href="https://filipebueno85-github-io.vercel.app/" target="_blank">
   <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 />
 </a>
 </div>  
