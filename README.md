@@ -58,7 +58,7 @@ Decidi estudar tecnologia de forma mais completa, focando em desenvolvimento de 
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 <a href="https://filipebueno85-github-io.vercel.app/">
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+  <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 />
 </a>
 </div>  
   
