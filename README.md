@@ -36,9 +36,6 @@
 ### <div align="center">Atualmente sou estudante da [Trybe](https://www.betrybe.com/)</div>  
   
 
-- 🔭 Cursando Desenvolvimento Web - Set 2022 - Set - 2023  
-  
-
 
 Bem-vindos! 
 
